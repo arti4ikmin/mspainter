@@ -118,8 +118,7 @@ local EntityTable = {
         ["GloombatSwarm"] = "Gloombats in next room!"
     },
     ["Avoid"] = {
-        "RushMoving",
-        "AmbushMoving"
+        "RushMoving"
     },
     ["NotifyReason"] = {
         ["A60"] = {
